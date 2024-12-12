@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=A8 Pin=JP25-1
+Removed Pin From Net: NetName=A9 Pin=JP25-2
+Removed Pin From Net: NetName=A10 Pin=JP25-3
+Removed Pin From Net: NetName=A11 Pin=JP25-4
+Removed Pin From Net: NetName=B12 Pin=JP25-5
+Removed Pin From Net: NetName=B13 Pin=JP25-6
+Removed Pin From Net: NetName=B14 Pin=JP25-7
+Removed Pin From Net: NetName=B15 Pin=JP25-8
+Change Component Description : Designator=U2 Old Description=ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 64KB (64K x 8) FLASH 48-LQFP (7x7) New Description=ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 64KB (64K x 8) FLASH 48-LQFP (7x7)
+
+Added Component: Designator=JP?(JP 1x8 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0 Pin=JP25-1
+Added Pin To Net: NetName=A1 Pin=JP25-2
+Added Pin To Net: NetName=A2 Pin=JP25-3
+Added Pin To Net: NetName=A3 Pin=JP25-4
+Added Pin To Net: NetName=B12 Pin=JP?-1
+Added Pin To Net: NetName=B13 Pin=JP?-2
+Added Pin To Net: NetName=B15 Pin=JP?-3
+Added Pin To Net: NetName=B14 Pin=JP?-4
+Added Pin To Net: NetName=GND Pin=JP?-6
+Added Pin To Net: NetName=VCC3V3 Pin=JP?-8
+Added Pin To Net: NetName=COL1 Pin=JP25-5
+Added Net: Name=COL1
+Added Pin To Net: NetName=COL2 Pin=JP25-6
+Added Net: Name=COL2
+Added Pin To Net: NetName=COL3 Pin=JP25-7
+Added Net: Name=COL3
+Added Pin To Net: NetName=COL4 Pin=JP25-8
+Added Net: Name=COL4
+Added Member To Class: ClassName=door_clock Member=Component C18 SWD
+Added Member To Class: ClassName=door_clock Member=Component JP? RFID
+Added Member To Class: ClassName=door_clock Member=Component U2 STM32F103C8T6
+Added Room: Name=door_clock
